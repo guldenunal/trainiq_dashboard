@@ -1,0 +1,11 @@
+
+table, th, td {    
+    width: auto;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    border: none;
+}
+.row{
+    justify-content: center;
+}
